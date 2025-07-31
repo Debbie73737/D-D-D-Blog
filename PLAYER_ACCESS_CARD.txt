@@ -1,0 +1,50 @@
+🐉 D&D&D BLOG - PLAYER ACCESS CARD 🐉
+
+🌐 ACCESS YOUR D&D BLOG:
+
+1. Make sure you're on the same WiFi network as the Game Master
+2. Open your web browser (Chrome, Firefox, Safari, etc.)
+3. Enter this URL: http://10.34.70.126:8000/
+
+📱 ALTERNATIVE URLs (if the above doesn't work):
+• http://192.168.56.1:8000/ (alternative network)
+• http://localhost:8000/ (if on the same computer)
+• http://127.0.0.1:8000/ (if on the same computer)
+
+🎮 WHAT YOU CAN DO:
+• Register for an account ✅ (FIXED!)
+• Create posts in World Building, Character Design, or Community Feedback
+• Make posts public or friends-only
+• Upload profile pictures
+• Add friends and see their posts
+• Like and comment on posts
+• Edit your profile
+
+🔐 LOGIN INFO:
+• Username: (create your own)
+• Password: (create your own)
+• Or use the admin account: admin / admin123
+
+💡 TIPS:
+• Bookmark the URL for easy access
+• Try the alternative URLs if the main one doesn't work
+• Make sure the Game Master's computer is running the server
+• The registration and login forms should now work properly
+
+🛡️ SECURITY:
+• Only works on the same local network
+• Perfect for local gaming sessions
+• No internet required
+
+🎲 HAVE FUN WITH YOUR D&D BLOG! 🎲
+
+📞 If you can't connect, ask the Game Master to:
+1. Make sure the server is running
+2. Check if you're on the same network
+3. Try the alternative URLs above
+4. The 404 errors should now be fixed!
+
+✅ LATEST FIXES:
+• Fixed ALLOWED_HOSTS to accept all connections
+• Fixed CSRF settings for external form submissions
+• Registration and login should now work from other computers 
